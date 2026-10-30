@@ -1,0 +1,6 @@
+{
+  "name": "HackAgrifest",
+  "description": "Modern mobile-first agricultural marketplace connecting Nigerian farmers directly to buyers without unnecessary middlemen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
